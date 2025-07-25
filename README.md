@@ -12,11 +12,16 @@ This project is a movie recommendation system built with Python and Streamlit. I
 
 ## 🛠️ Setup Instructions
 
+### Download Pre-trained artifacts folder from google drive first
+Due to size limits on GitHub, download the `artifacts/` file from https://drive.google.com/drive/folders/1OBFmn9W0DEcKJoh0H9b6O_HOVkptKB3C?usp=drive_link
+and place in just as app.py located before running the app.
+
+
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/zainch70/movie-recommender-ai.git
+cd movie-recommender-ai
 ```
 
 ### 2. Create and activate virtual environment (optional but recommended)
